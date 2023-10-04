@@ -46,7 +46,7 @@ export SHELL=$(which bash)
 #export BFETCH_COLOR="$HOME/.local/textart/color/icon/pacman.textart"
 
 export BFETCH_INFO="pfetch"
-export BFETCH_ART="cowsay '<3 Athena OS'"
+# export BFETCH_ART="cowsay '<3 Athena OS'"
 export BFETCH_COLOR="$HOME/.local/textart/color/icon/panes.textart"
 
 export PAYLOADS="/usr/share/payloads"

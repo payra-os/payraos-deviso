@@ -1,0 +1,12 @@
+NAME="Payra OS"
+PRETTY_NAME="Payra OS"
+ID=payraos
+BUILD_ID=rolling
+VERSION_ID=stable
+ANSI_COLOR="38;2;255;230;0"
+HOME_URL="https://payra-os.github.io"
+DOCUMENTATION_URL="https://payra-os.github.io/docs"
+SUPPORT_URL="https://payra-os.github.io/support"
+BUG_REPORT_URL="https://github.com/payra-os/payraos-deviso/issues"
+PRIVACY_POLICY_URL="https://payra-os.github.io/policy"
+LOGO=payraos-logo

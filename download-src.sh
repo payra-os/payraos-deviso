@@ -1,2 +1,2 @@
 # Author : E5H4N
-git clone 
+git clone https://github.com/payra-os/payraos-deviso.git
